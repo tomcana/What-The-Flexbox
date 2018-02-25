@@ -108,7 +108,7 @@ section, footer {
     display:none;
   }
   .flex-nav ul.open {
-    display: block;
+    display: flex;
   }
   .top {
     order: 2;
